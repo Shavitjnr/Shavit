@@ -13,7 +13,7 @@
 - 🤖 I’m an **AI Engineer** passionate about building intelligent systems and solving real-world problems with data and code.
 - 🌱 I’m currently exploring advanced topics in Machine Learning, Deep Learning, and Natural Language Processing.
 - 📄 [Check out my Resume](https://drive.google.com/file/d/1a-KC6Nj5J4QlHCXIXfr2LJQrfLOW7iyM/view?usp=sharing)
-- 💻 All of my projects are available at [My GitHub Repositories](https://github.com/shavit?tab=repositories)
+- 💻 All of my projects are available at [My GitHub Repositories](https://github.com/Shavitjnr?tab=repositories)
 - 💬 Ask me about **AI, Machine Learning, Deep Learning, Python, NLP, Data Science**
 - 📫 How to reach me: <!-- Add your email here if you want -->
 
