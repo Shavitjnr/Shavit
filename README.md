@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1A7F37&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;AI+Engineer+%F0%9F%A4%96;Machine+Learning+%7C+Deep+Learning+%7C+NLP"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=28&pause=1000&color=1A7F37&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub+Profile!;AI+Engineer+🤖;Machine+Learning+|+Deep+Learning+|+NLP"/>
 </p>
 
 ---
@@ -11,10 +11,11 @@
 ## 💫 About Me
 
 - 🤖 I’m an **AI Engineer** passionate about building intelligent systems and solving real-world problems with data and code.
-- 🌱 I’m currently exploring advanced topics in Machine Learning, Deep Learning, and Natural Language Processing.
+- 🌱 Currently exploring advanced topics in Machine Learning, Deep Learning, and Natural Language Processing.
 - 📄 [Check out my Resume](https://drive.google.com/file/d/1a-KC6Nj5J4QlHCXIXfr2LJQrfLOW7iyM/view?usp=sharing)
 - 💻 All of my projects are available at [My GitHub Repositories](https://github.com/Shavitjnr?tab=repositories)
 - 💬 Ask me about **AI, Machine Learning, Deep Learning, Python, NLP, Data Science**
+
 ---
 
 ## 📱 Connect with Me
@@ -23,7 +24,35 @@
 
 ---
 
-## 🚀 Languages and Tools
+## 🚀 Featured Projects
+
+### [Health-AI-Assistant](https://github.com/Shavitjnr/Health-AI-Assistant)
+A sophisticated healthcare analytics platform leveraging AI and ML for:
+- Diabetes risk assessment (Random Forest)
+- Diabetic retinopathy detection (Deep Learning CNNs)
+- Clinical consultation (RAG with local vector DB)
+- Modern Streamlit web interface  
+<sub>See full setup and features in the [Health-AI-Assistant README](https://github.com/Shavitjnr/Health-AI-Assistant/blob/main/README.md).</sub>
+
+---
+
+### [Python-Course](https://github.com/Shavitjnr/Python-Course)
+A comprehensive Python learning resource and codebase, ideal for beginners and intermediate learners.  
+- 100% Python
+- Covers core concepts, practical exercises, and real-world examples
+
+---
+
+### [My-Python-Project](https://github.com/Shavitjnr/My-Python-Project)
+A curated collection of 15+ interactive Python projects, including:
+- Classic games (Rock Paper Scissors, Blackjack, Ludo, etc.)
+- Utilities (Unit Converter, File Organizer, Alarm Clock)
+- AI/ML demos and productivity tools  
+<sub>See the [My-Python-Project README](https://github.com/Shavitjnr/My-Python-Project/blob/main/README.md) for details and run instructions.</sub>
+
+---
+
+## 🛠️ Languages and Tools
 
 ### AI/ML & Data Science
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=flat&logo=python&logoColor=white)
