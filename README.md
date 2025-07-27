@@ -15,8 +15,6 @@
 - 📄 [Check out my Resume](https://drive.google.com/file/d/1a-KC6Nj5J4QlHCXIXfr2LJQrfLOW7iyM/view?usp=sharing)
 - 💻 All of my projects are available at [My GitHub Repositories](https://github.com/Shavitjnr?tab=repositories)
 - 💬 Ask me about **AI, Machine Learning, Deep Learning, Python, NLP, Data Science**
-- 📫 How to reach me: <!-- Add your email here if you want -->
-
 ---
 
 ## 📱 Connect with Me
@@ -51,8 +49,8 @@
 ## 📊 My Github Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shavit&show_icons=true&theme=radical" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shavit&layout=compact&theme=radical" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Shavitjnr&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shavitjnr&layout=compact&theme=radical" alt="Top Languages"/>
 </p>
 
 ---
